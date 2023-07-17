@@ -21,7 +21,7 @@
 
     <h3 class="text-center text-white pt-3 pb-4">Our story</h3>
     <div class="container-fluid">
-      <div class="ms-4 me-3">
+      <div class="ms-4 me-4">
         <div class="d-flex justify-content-center align-items-center pb-3">
           <div class="row">
             <div class="col"></div>
