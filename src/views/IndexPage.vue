@@ -27,7 +27,7 @@
             <div class="col"></div>
               <div class="col">
                 <div v-if="fetched_num == 1">
-                  <div class="card mb-3" style="width: 350px;">
+                  <div class="card mb-3" style="width: 300px;">
                     <img src="../assets/4-pcs-instax.jpg" class="custom-img"/>
                     <div class="card-body">
                       <p class="card-text">
@@ -41,7 +41,7 @@
                 </div>
 
                 <div v-else-if="fetched_num == 2">
-                  <div class="card mb-3" style="width: 350px;">
+                  <div class="card mb-3" style="width: 300px;">
                     <img src="../assets/car_maroon.jpeg" class="custom-img"/>
                     <div class="card-body">
                       <p class="card-text">
@@ -55,7 +55,7 @@
                 </div>
 
                 <div v-else-if="fetched_num == 3">
-                  <div class="card mb-3" style="width: 350px;">
+                  <div class="card mb-3" style="width: 300px;">
                     <img src="../assets/powerpuff_vc.jpeg" class="custom-img"/>
                     <div class="card-body">
                       <p class="card-text">
@@ -69,7 +69,7 @@
                 </div>
 
                 <div v-else-if="fetched_num == 4">
-                  <div class="card mb-3" style="width: 350px;">
+                  <div class="card mb-3" style="width: 300px;">
                     <img src="../assets/car_face_squeez.jpeg" class="custom-img"/>
                     <div class="card-body">
                       <p class="card-text">
@@ -83,7 +83,7 @@
                 </div>
 
                 <div v-else-if="fetched_num == 5">
-                  <div class="card mb-3" style="width: 350px;">
+                  <div class="card mb-3" style="width: 300px;">
                     <img src="../assets/IMG_20220919_163944_055.webp" class="custom-img"/>
                     <div class="card-body">
                       <p class="card-text">
@@ -97,7 +97,7 @@
                 </div>
 
                 <div v-else-if="fetched_num == 6">
-                  <div class="card mb-3" style="width: 350px;">
+                  <div class="card mb-3" style="width: 300px;">
                     <img src="../assets/mirror_shot.jpg" class="custom-img"/>
                     <div class="card-body">
                       <p class="card-text">
@@ -111,7 +111,7 @@
                 </div>
 
                 <div v-else-if="fetched_num == 7">
-                  <div class="card mb-3" style="width: 350px;">
+                  <div class="card mb-3" style="width: 300px;">
                     <img src="../assets/col_car.jpeg" class="custom-img"/>
                     <div class="card-body">
                       <p class="card-text">
@@ -125,7 +125,7 @@
                 </div>
 
                 <div v-else-if="fetched_num == 8">
-                  <div class="card mb-3" style="width: 350px;">
+                  <div class="card mb-3" style="width: 300px;">
                     <img src="../assets/col_pics.jpeg" class="custom-img"/>
                     <div class="card-body">
                       <p class="card-text">
