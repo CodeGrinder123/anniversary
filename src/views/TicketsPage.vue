@@ -20,36 +20,42 @@
         </div>
 
         <h3 class="text-center text-white pt-3 pb-4">Movies</h3>
-        <div class="container d-flex justify-content-center align-items-center pb-3">
-            <div class="row">
-                <div class="col">
-                    <div class="card mb-3" style="width: 402px;">
-                        <img src="../assets/movie_poster.jpg" class="custom-img"/>
-                        <div class="card-body">
-                            <h5 class="card-title">Special title treatment</h5>
-                            <p class="card-text">
-                                In the realm of digital connection, our story began, <br>
-                                Through the virtual waves, destiny had a plan. <br>
-                                Bumble brought us together, a chance encounter so rare, <br>
-                                Little did we know, it would be a love beyond compare.
-                            </p>
-                            <a href="#" class="btn btn-primary">Book a reservation</a>
+        <div class="container-fluid">
+            <div class="ms-4 me-3">
+                <div class="container d-flex justify-content-center align-items-center pb-3">
+                    <div class="row">
+                        <div class="col"></div>
+                        <div class="col">
+                            <div class="card mb-3" style="width: 300px;">
+                                <img src="../assets/movie_poster.jpg" class="custom-img"/>
+                                <div class="card-body">
+                                    <h5 class="card-title">Special title treatment</h5>
+                                    <p class="card-text">
+                                        In the realm of digital connection, our story began, <br>
+                                        Through the virtual waves, destiny had a plan. <br>
+                                        Bumble brought us together, a chance encounter so rare, <br>
+                                        Little did we know, it would be a love beyond compare.
+                                    </p>
+                                    <a href="#" class="btn btn-primary">Book a reservation</a>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card mb-3" style="width: 402px;">
-                        <img src="../assets/movie_poster.jpg" class="custom-img"/>
-                        <div class="card-body">
-                            <h5 class="card-title">Special title treatment</h5>
-                            <p class="card-text">
-                                In the realm of digital connection, our story began, <br>
-                                Through the virtual waves, destiny had a plan. <br>
-                                Bumble brought us together, a chance encounter so rare, <br>
-                                Little did we know, it would be a love beyond compare.
-                            </p>
-                            <a href="#" class="btn btn-primary">Book a reservation</a>
+                        <div class="col">
+                            <div class="card mb-3" style="width: 300px;">
+                                <img src="../assets/movie_poster.jpg" class="custom-img"/>
+                                <div class="card-body">
+                                    <h5 class="card-title">Special title treatment</h5>
+                                    <p class="card-text">
+                                        In the realm of digital connection, our story began, <br>
+                                        Through the virtual waves, destiny had a plan. <br>
+                                        Bumble brought us together, a chance encounter so rare, <br>
+                                        Little did we know, it would be a love beyond compare.
+                                    </p>
+                                    <a href="#" class="btn btn-primary">Book a reservation</a>
+                                </div>
+                            </div>
                         </div>
+                        <div class="col"></div>
                     </div>
                 </div>
             </div>
